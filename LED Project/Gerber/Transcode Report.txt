@@ -1,0 +1,40 @@
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Starting with KiCAD\LED Project\Gerber\LED Project-B_Mask.gbr' ----   Tue Jul 14 14:59:48 2020
+
+D10   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Starting with KiCAD\LED Project\Gerber\LED Project-Edge_Cuts.gbr' ----   Tue Jul 14 14:59:48 2020
+
+D10   --> D101
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Starting with KiCAD\LED Project\Gerber\LED Project-F_Cu.gbr' ----   Tue Jul 14 14:59:48 2020
+
+D11   --> D102
+D12   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Starting with KiCAD\LED Project\Gerber\LED Project-F_Mask.gbr' ----   Tue Jul 14 14:59:48 2020
+
+D10   --> D104
+D11   --> D105
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Starting with KiCAD\LED Project\Gerber\LED Project-F_Paste.gbr' ----   Tue Jul 14 14:59:48 2020
+
+D10   --> D106
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\FEDEVEL Academy\Starting with KiCAD\LED Project\Gerber\LED Project-F_SilkS.gbr' ----   Tue Jul 14 14:59:48 2020
+
+D10   --> D107
+D11   --> D108
+D12   --> D109
+-----------------------------------------------------------------
